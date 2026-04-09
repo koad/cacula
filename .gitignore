@@ -6,6 +6,8 @@ id/dsa
 
 # GPG revocation certificate — store offline, never commit
 id/gpg-revocation.asc
+\n# Entity GPG keyring — private keys, never commit
+keyring/
 
 # SSL private keys
 ssl/master-curve.pem
