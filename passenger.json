@@ -1,0 +1,8 @@
+{
+  "handle": "cacula",
+  "name": "Cacula",
+  "dispatch": {
+    "color": "red",
+    "model": "sonnet"
+  }
+}
