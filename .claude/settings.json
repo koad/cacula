@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Write",
+      "Edit",
+      "Bash(git:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(mkdir:*)",
+      "Bash(cd:*)",
+      "Bash(pwd)",
+      "Bash(echo:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)"
+    ]
+  },
+  "spinnerTipsEnabled": false
+}
