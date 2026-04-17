@@ -6,7 +6,8 @@ id/dsa
 
 # GPG revocation certificate — store offline, never commit
 id/gpg-revocation.asc
-\n# Entity GPG keyring — private keys, never commit
+
+# Entity GPG keyring — private keys, never commit
 keyring/
 
 # SSL private keys
@@ -39,3 +40,11 @@ home/*/.local/
 # Editor
 .vscode/
 *.swp
+
+# Flight plans — ephemeral dispatch artifacts (durable record is commit trailer)
+flight-plans/
+
+# Claude Code harness artifacts (regenerated per session)
+.claude.json
+.claude/
+mcp-needs-auth-cache.json
