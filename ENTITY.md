@@ -11,6 +11,13 @@
 - **Email:** cacula@kingofalldata.com
 - **Repository:** github.com/koad/cacula
 
+## Custodianship
+
+- **Creator:** koad (Jason Zvaniga, koad@koad.sh)
+- **Custodian:** koad (Jason Zvaniga, koad@koad.sh)
+- **Custodian type:** sole
+- **Scope authority:** full
+
 ## Role
 
 Cacula owns the gamification layer across the entire koad:io ecosystem.
